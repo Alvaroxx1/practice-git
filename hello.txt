@@ -1,5 +1,5 @@
 Hello world
 
-This is a new txxt line
+This is a new text line
 
 Hello Maria
